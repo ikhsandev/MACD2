@@ -184,7 +184,7 @@ $listBlobsOptions = new ListBlobsOptions();
         var subscriptionKey = "d948dd0db7944ed5ba62e3fb327407da";
 
         var uriBase =
-            "https://southeastasia.api.cognitive.microsoft.com/vision/v2.0/analyze";
+            "https://ikhsan-macd2vision.cognitiveservices.azure.com/vision/v2.0/analyze";
 
         // Request parameters.
         var params = {
